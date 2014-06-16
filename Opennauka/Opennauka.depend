@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1402839175 source:c:\users\marcin\desktop\opennauka\main.c
+	"biblioteki.h"
+	"kolizja.h"
+
+1400763177 source:c:\users\marcin\desktop\opennauka\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<GL/glut.h>
+
+1402853885 source:c:\users\marcin\desktop\opennauka\terminal.c
+	"biblioteki.h"
+
+1401264903 c:\users\marcin\desktop\opennauka\biblioteki.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+
+1402493644 source:c:\users\marcin\desktop\opennauka\kolizja.c
+	"biblioteki.h"
+
+1402489355 c:\users\marcin\desktop\opennauka\kolizja.h
+
